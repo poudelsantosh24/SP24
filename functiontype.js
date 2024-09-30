@@ -16,3 +16,5 @@ const func1=()=>{
     func2(result);
 }
 func1();
+
+
